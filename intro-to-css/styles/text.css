@@ -1,0 +1,53 @@
+
+p{
+    font-family: roboto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.video-tittle{
+    font-weight: bold;
+    font-size: 18px;
+    width:250px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.whatever-beans{
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    color:rgb(96,96,96)
+}
+
+.Marques-Brownlee{
+font-size: 14px;
+margin-top: 15px;
+margin-bottom: 15px;
+color:rgb(96,96,96);
+}
+
+.talking{
+font-size: 14px;
+color:rgb(96,96,96);
+width:220px;
+margin-bottom:100px;
+}
+
+.shop{
+margin-bottom: 50px ;
+font-size: 14px;
+background-color: rgb(227,65,64);
+color:white;
+padding-top: 15px ;
+padding-bottom: 15px;
+text-align: center;
+}
+
+.shop-now{
+cursor:pointer;
+}
+
+.shop-now:hover{
+text-decoration: underline;
+}
